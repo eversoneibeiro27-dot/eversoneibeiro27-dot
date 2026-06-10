@@ -6,8 +6,6 @@ Me chamo Everson Ribeiro, tenho 30 anos e sou natural de Minas Gerais. Atualment
 
 <p align="left">
 
-        />
-    </a>
 </p>
 
 ---
