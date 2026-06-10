@@ -5,17 +5,7 @@
 Me chamo Everson Ribeiro, tenho 30 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá. Sou apaixonado por tecnologia.
 
 <p align="left">
-    
-        <img 
-    
-        <img 
-            
-        <img 
-            
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+
         />
     </a>
 </p>
