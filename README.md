@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back end`**
 
-Me chamo Everson Ribeiro, tenho 30 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá. Sou apaixonada por tecnologia.
+Me chamo Everson Ribeiro, tenho 30 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio de Sá. Sou apaixonado por tecnologia.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
